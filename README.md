@@ -8,6 +8,7 @@ Pattern URL : https://mazipan.github.io/wp-contents/images/{IMAGE_NAME}
 + https://mazipan.github.io/wp-contents/images/ebook-mengembangkan-css-framework-sendiri-mazipanneh.com.PNG
 + https://mazipan.github.io/wp-contents/images/ebook-pengenalan-framework-angular-2-bagi-pemula-mazipanneh.com.PNG
 + https://mazipan.github.io/wp-contents/images/ebook-sencha-extjs-for-beginner-mazipanneh.com.PNG
++ https://mazipan.github.io/wp-contents/images/ads-space-mazipanneh.com.jpg
 
 ## Ebooks
 Pattern URL : https://mazipan.github.io/wp-contents/ebooks/{EBOOK_NAME}

@@ -1,6 +1,15 @@
 # wp-contents
 Static assets for mazipanneh.com
 
+
+## Logo
+Pattern URL : https://mazipan.github.io/wp-contents/images/logo/{IMAGE_NAME}
+
++ https://mazipan.github.io/wp-contents/images/logo/irfan-maulana-black-mazipanneh.com.png
++ https://mazipan.github.io/wp-contents/images/logo/irfan-maulana-blue-mazipanneh.com.png
++ https://mazipan.github.io/wp-contents/images/logo/irfan-maulana-red-mazipanneh.com.png
++ https://mazipan.github.io/wp-contents/images/logo/irfan-maulana-white-mazipanneh.com.png
+
 ## Images
 Pattern URL : https://mazipan.github.io/wp-contents/images/{IMAGE_NAME}
 

@@ -18,6 +18,9 @@ Pattern URL : https://mazipan.github.io/wp-contents/images/{IMAGE_NAME}
 + https://mazipan.github.io/wp-contents/images/ebook-pengenalan-framework-angular-2-bagi-pemula-mazipanneh.com.PNG
 + https://mazipan.github.io/wp-contents/images/ebook-sencha-extjs-for-beginner-mazipanneh.com.PNG
 + https://mazipan.github.io/wp-contents/images/ads-space-mazipanneh.com.jpg
++ https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-1-mazipanneh.jpg
++ https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-2-mazipanneh.jpg
++ https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-3-mazipanneh.jpg
 
 ## Ebooks
 Pattern URL : https://mazipan.github.io/wp-contents/ebooks/{EBOOK_NAME}

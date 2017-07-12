@@ -26,6 +26,7 @@ Pattern URL : https://mazipan.github.io/wp-contents/images/{IMAGE_NAME}
 + [belajar-angular-bagian-3-mazipanneh.jpg](https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-3-mazipanneh.jpg)
 + [belajar-angular-bagian-4-mazipanneh.jpg](https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-4-mazipanneh.jpg)
 + [belajar-angular-bagian-5-mazipanneh.jpg](https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-5-mazipanneh.jpg)
++ [belajar-angular-bagian-6-mazipanneh.jpg](https://mazipan.github.io/wp-contents/images/belajar-angular-bagian-6-mazipanneh.jpg)
 
 ## Ebooks
 Pattern URL : https://mazipan.github.io/wp-contents/ebooks/{EBOOK_NAME}
